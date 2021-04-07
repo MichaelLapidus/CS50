@@ -1,2 +1,2 @@
 # CS50
-My resolved solutions, time tracking
+My resolved solutions, time tracking, etc
